@@ -1,0 +1,7 @@
+credit_card:
+  bank: tesco
+  product: creditcard
+  card: 1234123412341234
+  username: yourusername
+  security_code: 123456
+  password: itsasecret
