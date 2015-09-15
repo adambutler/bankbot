@@ -1,0 +1,15 @@
+{
+  "name": "bankbot",
+  "version": "1.0.0",
+  "description": "A bot that crawls online banking and presents its findings via a secure REST API.",
+  "main": "lib/bankbot.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Butler <adam@lab.io>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "yml": "0.0.3"
+  }
+}
