@@ -10,6 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.8.1",
+    "phantom": "^0.7.2",
+    "phantomjs": "^1.9.18",
     "yml": "0.0.3"
   }
 }

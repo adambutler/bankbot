@@ -7,7 +7,6 @@ class Cli
     config = new Config
     if config.isValid()
       Strategy = config.getStrategy()
-      strategy = new Strategy
-
+      strategy = new Strategy(config.getConfig())
 
 module.exports = Cli
